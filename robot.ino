@@ -1,8 +1,3 @@
-/**********************************************************************
-  Product     : Freenove 4WD Car for UNO
-  Auther      : www.freenove.com
-  Modification: 2019/08/03
-**********************************************************************/
 #define PIN_DIRECTION_RIGHT 3
 #define PIN_DIRECTION_LEFT  4
 #define PIN_MOTOR_PWM_RIGHT 5
